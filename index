@@ -1,6 +1,23 @@
 receipt 8798db38d474cf7ff7663851d1d60dae7cf7ece8ff2db33ee8abdab9d48fa61a pages pass 43921223933 1 bba69e0d913461dcaf30edc191f1ecaee8fb2a78 never
 receipt 34214d2f6c781538674234588e444b42a1305f18b31fd0437d5aed2ec1e3d970 offline pass 43921224081 1 bba69e0d913461dcaf30edc191f1ecaee8fb2a78 never
+receipt 7405a63d662c39522ddcebd85637cb3b29ccd1bd1b51801c8cc8dec20f9c192e artifacts-ubuntu-24.04 pass 43921223898 1 bba69e0d913461dcaf30edc191f1ecaee8fb2a78 never
+receipt 362e3ec20d46d838c3942efc2a199d758c7269edab48149151d0f76962b26616 claims-ubuntu-24.04 pass 43921223898 1 bba69e0d913461dcaf30edc191f1ecaee8fb2a78 never
+receipt d9709bf64a4e24d6cc75ca7061f013ec3d16e92d2e5457691e05fc95b62b6a20 figures-ubuntu-24.04 pass 43921223898 1 bba69e0d913461dcaf30edc191f1ecaee8fb2a78 never
+receipt 155334b9292b5152f5725e2971099f219e7303b69be7ff516ec8cba3d02c59ea integrity-ubuntu-24.04 pass 43921223898 1 bba69e0d913461dcaf30edc191f1ecaee8fb2a78 never
+receipt 0b7826cd55a22ad3daba1cacf7d75431b90768d9ab79ed8208bc24a89f210bc9 reproducibility-ubuntu-24.04 pass 43921223898 1 bba69e0d913461dcaf30edc191f1ecaee8fb2a78 never
+receipt 6c16fb6cb212821ed96934e62491028102dd4734189ca24871f0ed61074dbe5b rest-ubuntu-24.04-arm pass 43921223898 1 bba69e0d913461dcaf30edc191f1ecaee8fb2a78 never
+receipt 51b0f35768a4daf0800a590efbdf652d2ee76997709e17c1ad5c8d640dccc9a5 rest-ubuntu-24.04 pass 43921223898 1 bba69e0d913461dcaf30edc191f1ecaee8fb2a78 never
+receipt f8258a1b327729618fbdc3141371b46c5294c469d67b9233f9d3c12ebb8e7db3 varint-ubuntu-24.04 pass 43921223898 1 bba69e0d913461dcaf30edc191f1ecaee8fb2a78 never
+weight artifacts-ubuntu-24.04 3
+weight claims-ubuntu-24.04 3
+weight figures-ubuntu-24.04 3
+weight integrity-ubuntu-24.04 3
 weight offline 3
 weight pages 3
+weight reproducibility-ubuntu-24.04 3
+weight rest-ubuntu-24.04 3
+weight rest-ubuntu-24.04-arm 3
+weight varint-ubuntu-24.04 3
 seen 43921223933 1
 seen 43921224081 1
+seen 43921223898 1
