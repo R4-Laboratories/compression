@@ -8,16 +8,25 @@ receipt 0b7826cd55a22ad3daba1cacf7d75431b90768d9ab79ed8208bc24a89f210bc9 reprodu
 receipt 6c16fb6cb212821ed96934e62491028102dd4734189ca24871f0ed61074dbe5b rest-ubuntu-24.04-arm pass 43921223898 1 bba69e0d913461dcaf30edc191f1ecaee8fb2a78 never
 receipt 51b0f35768a4daf0800a590efbdf652d2ee76997709e17c1ad5c8d640dccc9a5 rest-ubuntu-24.04 pass 43921223898 1 bba69e0d913461dcaf30edc191f1ecaee8fb2a78 never
 receipt f8258a1b327729618fbdc3141371b46c5294c469d67b9233f9d3c12ebb8e7db3 varint-ubuntu-24.04 pass 43921223898 1 bba69e0d913461dcaf30edc191f1ecaee8fb2a78 never
+receipt 4fcbe2daf1ac727ec608de778221fc12911207840da61e5c7473ca4fb2aecb4d frontier fail 43931229438 1 bba69e0d913461dcaf30edc191f1ecaee8fb2a78 never
+receipt 48d8d5fe33d630252c95d7d6e0149c44326753a316d92ca122c20e2cd9d450a9 native-aarch64-unknown-linux-gnu pass 43931229438 1 bba69e0d913461dcaf30edc191f1ecaee8fb2a78 2027-02-13T18:40:07.000Z
+receipt ed53ba0e8d61d163f5d4d7413e630aac7e95c1efdfeb99cbbab74f86e053e81f native-x86_64-unknown-linux-gnu pass 43931229438 1 bba69e0d913461dcaf30edc191f1ecaee8fb2a78 2027-02-13T18:40:07.000Z
+receipt e06a2958e8d77b070df5be13e2d465f85dc79eb159f39b4d8f2602567318f738 wasm pass 43931229438 1 bba69e0d913461dcaf30edc191f1ecaee8fb2a78 2027-02-13T18:40:07.000Z
 weight artifacts-ubuntu-24.04 3
 weight claims-ubuntu-24.04 3
 weight figures-ubuntu-24.04 3
+weight frontier 5
 weight integrity-ubuntu-24.04 3
+weight native-aarch64-unknown-linux-gnu 3
+weight native-x86_64-unknown-linux-gnu 3
 weight offline 3
 weight pages 3
 weight reproducibility-ubuntu-24.04 3
 weight rest-ubuntu-24.04 3
 weight rest-ubuntu-24.04-arm 3
 weight varint-ubuntu-24.04 3
+weight wasm 3
 seen 43921223933 1
 seen 43921224081 1
 seen 43921223898 1
+seen 43931229438 1
